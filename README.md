@@ -51,7 +51,7 @@ Key fields include:
 
 ---
 
-## 🛠 Tools & Features
+##  Tools & Features
 
 - Power BI Desktop, DAX Measures, Smart Narrative  
 - Drill-through & Interactive Slicers  
