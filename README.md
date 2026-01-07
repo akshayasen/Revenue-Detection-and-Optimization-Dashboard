@@ -4,7 +4,7 @@ This project identifies, analyzes, and explains **revenue leakage** across retai
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 - Detect and quantify revenue leakage versus expected revenue.  
 - Identify root causes of margin erosion.  
@@ -12,7 +12,7 @@ This project identifies, analyzes, and explains **revenue leakage** across retai
 
 ---
 
-## 🧩 Dataset Overview
+##  Dataset Overview
 
 Key fields include:  
 
@@ -20,7 +20,7 @@ Key fields include:
 
 ---
 
-## 📌 Dashboard Highlights
+##  Dashboard Highlights
 
 ### Page 1: Revenue Detection & Optimization
 
@@ -58,7 +58,7 @@ Key fields include:
 
 ---
 
-## 📈 Key Takeaways
+##  Key Takeaways
 
 - Revenue leakage is **process-driven**, not customer-driven.  
 - **Non-promotional transactions** are a major leakage source.  
@@ -66,7 +66,7 @@ Key fields include:
 
 ---
 
-## 🔹 Recommendations
+##  Recommendations
 
 1. **Strengthen Non-Promotional Controls**  
    - Audit pricing, overrides, and POS logic.  
@@ -84,9 +84,8 @@ Key fields include:
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
-- Power BI Dashboard (`.pbix`)  
 - Dashboard Screenshots  
 - README Documentation  
 
